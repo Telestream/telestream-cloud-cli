@@ -1,7 +1,7 @@
 # Changelog
 ## [Unreleased]
 
-## [1.1.1_test] - 2019-06-03
+## [1.1.1] - 2019-06-03
 ### Added
 - possibility to pass page and per_page parameters for all list commands
 - list video encodings on video describe
